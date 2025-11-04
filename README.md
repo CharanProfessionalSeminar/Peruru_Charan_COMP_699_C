@@ -14,7 +14,7 @@ The Nomad Network Navigator is a desktop-based application designed to empower f
 - **Performance**: Optimized for consumer-grade hardware, ensuring sub-second responses for simulations and visualizations.
 
 ## Requirements
-- **Python Version**: 3.8 or higher
+- **Python Version**: 3.10 or higher
 - **Dependencies**:
   - streamlit: For interactive front-end
   - networkx: For graph-based algorithms
